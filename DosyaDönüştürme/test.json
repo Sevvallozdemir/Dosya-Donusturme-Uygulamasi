@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "Ahmet Yılmaz",
+        "grades": {
+            "midterm": 75,
+            "final": 85
+        },
+        "course": "BIL 203"
+    },
+    {
+        "id": 2,
+        "name": "Ayşe Kaya",
+        "grades": {
+            "midterm": 80,
+            "final": 88
+        },
+        "course": "BIL 203" 
+    },
+    {
+        "id": 3,
+        "name": "Mehmet Demir",
+        "grades": {
+            "midterm": 70,
+            "final": 82
+        },
+        "course": "BIL 203"
+    }
+]
